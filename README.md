@@ -18,3 +18,9 @@
 
 1.la forma en la cual se saca una potencia
 2.la funcion incluide
+
+#implementaciones de ECMA 8
+
+1. object.entries /.values
+2. async await
+3. padding
