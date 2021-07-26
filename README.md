@@ -9,7 +9,7 @@
 7. elementos de propagacion
 8. parametros de objetos
 9. arrows functions
-10.promesas
+10. promesas
 11. constructoras
 12. import y export
 13. generadores 
@@ -24,3 +24,9 @@
 1. object.entries /.values
 2. async await
 3. padding
+
+#implementaciones de ECMA 9
+
+1. .finally
+2. regex
+3. propagacion para construir otro objeto
