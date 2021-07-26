@@ -13,3 +13,8 @@
 11. constructoras
 12. import y export
 13. generadores 
+
+#implementaciones de ECMA 7
+
+1.la forma en la cual se saca una potencia
+2.la funcion incluide
