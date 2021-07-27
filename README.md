@@ -30,3 +30,9 @@
 1. .finally
 2. regex
 3. propagacion para construir otro objeto
+ 
+
+ #implementaciones de ECMA 10
+ 1. flat / flat map
+ 2. trim Stard / End
+ 3. se borra el '(error)' del cath en el control de errores
